@@ -19,7 +19,7 @@ Generation is at 24 FPS, 720p, 16:9, and the raw output is kept (no staging).
 
 ## Files
 
-- `rbench_notebook.ipynb` — main notebook (demo case + full-sweep cell).
+- `run_with_cosmos_framework.ipynb` — main notebook (demo case + full-sweep cell).
 - `assets/prompts/*.json` — 9 category files, 650 entries total, each with
   `json_upsampled_prompt` and `negative_prompt`.
 

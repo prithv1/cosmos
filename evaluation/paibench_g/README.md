@@ -20,7 +20,7 @@ Both tasks generate at 24 FPS, 720p, 16:9, and keep the raw output (no staging).
 
 ## Files
 
-- `paibench_notebook.ipynb` — main notebook (demos for both tasks + two full-sweep cells).
+- `run_with_cosmos_framework.ipynb` — main notebook (demos for both tasks + two full-sweep cells).
 - `assets/i2v_prompts.json` — 1044 I2V entries with `json_upsampled_prompt` and `negative_prompt`.
 - `assets/t2v_prompts.json` — 1044 T2V entries with `json_upsampled_prompt` and `negative_prompt`.
 
