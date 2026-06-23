@@ -11,7 +11,7 @@ The rest of this doc shows how to run these modes on selected embodiments direct
 
 ## Table of Contents
 
-- [Overview](#examples-overview)
+- [Overview](#overview)
 - [Run with Cosmos Framework](#run-with-cosmos-framework)
   - [Quickstart](#quickstart)
   - [Cosmos Framework Walkthrough](#cosmos-framework-walkthrough)
